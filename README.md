@@ -10,8 +10,6 @@ To run:
 
 3. Open 'http://localhost:3002/', SMS 'hi', then you can order food according to the instructions
 
-## Assignment 2
-
 Extend the order bot from assignment 1. You need to have at least 2 items on the menu unless your favourite food is pizza in which case you need to have 3 (I did pizza already). The menu items need to have size and one other attribute like toppings. You also need an up-sell item like drinks in the example.
 
 For Assignment 2 you need to add paypal and a payment screen as in the scaffold.
