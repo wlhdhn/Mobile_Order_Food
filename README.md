@@ -9,4 +9,10 @@ To run:
 
 3. Open 'http://localhost:3002/', SMS 'hi', then you can order food according to the instructions
 
-Extend the order bot from assignment 1. You need to have at least 2 items on the menu unless your favourite food is pizza in which case you need to have 3 (I did pizza already). The menu items need to have size and one other attribute like toppings. You also need an up-sell item like drinks in the example.
+
+=======
+# Mobile_Order_Food
+This is a mobile application by using node.js.
+I also valid the choices the customer input. If they input the choice which does not exist, I will give the error message and let them choose again.
+I will give the whole details, price, tax and payment link when they finish ordering.
+After they pay successfully, there will be a mesaging with sending time and location information.
